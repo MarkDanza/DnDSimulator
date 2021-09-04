@@ -15,6 +15,7 @@ follows:
   - (m)ove x1 y1 x2 y2: Move the piece at location (x1, y1) to location (x2, y2).
   - (a)ttack x1 y1 x2 y2: Make the piece at (x1, y1) attack the piece at (x2, y2).
   - (q)uit: terminate the program
+
 Pieces on the grid are indicated by letters, while empty spaces are displayed as periods ('.'). Each
 grid space represents a 5ft by 5ft square area.
 Pieces may only move a distance up to their speed in a single move command. Currently, the speed of each
